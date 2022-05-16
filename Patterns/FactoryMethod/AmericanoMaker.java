@@ -1,5 +1,3 @@
-package HomeWork.Patterns.FactoryMethod;
-
 public class AmericanoMaker extends DrinkMaker{
 
     @Override

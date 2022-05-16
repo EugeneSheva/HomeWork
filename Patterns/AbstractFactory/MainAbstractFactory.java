@@ -1,6 +1,4 @@
-package HomeWork.Patterns.AbstractFactory;
-
-public class Main {
+public class MainAbstractFactory {
     public static void main(String[] args) {
         Factory woodFactory = new WoodFactory();
         Factory metalPlastFactory = new MetalPlastFactory();

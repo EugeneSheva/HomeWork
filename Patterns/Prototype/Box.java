@@ -1,5 +1,3 @@
-package HomeWork.Patterns.Prototype;
-
 public class Box implements Clonable {
     protected int weight;
     protected int volume;

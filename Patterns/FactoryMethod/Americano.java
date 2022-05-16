@@ -1,5 +1,3 @@
-package HomeWork.Patterns.FactoryMethod;
-
 public class Americano implements Drink{
     public String Coffe = "Coffe";
     public String Water = "Water * 3";

@@ -1,5 +1,3 @@
-package HomeWork.Patterns.AbstractFactory;
-
 public class WoodFactory implements Factory {
     @Override
     public Window createWindow() {

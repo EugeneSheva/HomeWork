@@ -1,5 +1,3 @@
-package HomeWork.Patterns.patеernBuilder;
-
 public class Director {
     public void PresidentalNumber(Builder builder){
         builder.setNumberOfSeats(NumberOfSeats.QuadrupleRoom);

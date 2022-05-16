@@ -1,5 +1,3 @@
-package HomeWork.Patterns.Singleton;
-
 public class main {
     public static void main(String[] args) {
         Singleton sn1 = Singleton.getInstance();

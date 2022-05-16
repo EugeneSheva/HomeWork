@@ -1,5 +1,3 @@
-package HomeWork.Patterns.patеernBuilder;
-
 public class ManualHottelsRoomBuilder implements Builder {
 
         private NumberOfSeats numberOfSeats;

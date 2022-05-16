@@ -1,5 +1,3 @@
-package HomeWork.Patterns.AbstractFactory;
-
 public class MetalPlastFactory implements Factory{
 
 

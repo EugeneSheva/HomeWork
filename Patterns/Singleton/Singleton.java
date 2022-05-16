@@ -1,5 +1,3 @@
-package HomeWork.Patterns.Singleton;
-
 public class Singleton {
     private static Singleton instance;
     private int value;

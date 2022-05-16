@@ -1,5 +1,3 @@
-package HomeWork.Patterns.patеernBuilder;
-
 public class HotelsRoom {
     private NumberOfSeats numberOfSeats;
     private ViewFromTheWindow vievFromTheWindow;
