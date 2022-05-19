@@ -1,3 +1,5 @@
+package Composite;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -11,7 +13,7 @@ public class Team1 {
         devList.remove(dev);
     }
     public void createProject() {
-        System.out.println("Team1 creating project...");
+        System.out.println("Composite.Team1 creating project...");
         for(Dev dev: devList) {
             dev.WriteCode();
         }

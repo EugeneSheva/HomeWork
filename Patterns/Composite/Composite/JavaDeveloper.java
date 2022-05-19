@@ -1,6 +1,8 @@
+package Composite;
+
 public class JavaDeveloper implements Dev{
     @Override
     public void WriteCode() {
-        System.out.println("Java dev write Java code");
+        System.out.println("Bridge.Java dev write Bridge.Java code");
     }
 }

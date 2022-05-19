@@ -1,5 +1,10 @@
+package Bridge;
+
 public class CashExchange extends Program{
-    protected CashExchange(Dev developer) {
+
+
+    protected CashExchange(Developer developer) {
+
         super(developer);
     }
 

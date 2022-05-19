@@ -1,7 +1,10 @@
-public abstract class Program {
-    Dev developer;
+package Bridge;
 
-    protected Program(Dev developer) {
+public abstract class Program {
+
+    Developer developer;
+
+    protected Program(Developer developer) {
         this.developer = developer;
     }
     public abstract void MakeProgram();

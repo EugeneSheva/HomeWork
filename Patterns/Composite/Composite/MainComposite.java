@@ -1,3 +1,5 @@
+package Composite;
+
 public class MainComposite {
     public static void main(String[] args) {
     Team1 team1 = new Team1();
