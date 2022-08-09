@@ -3,9 +3,9 @@ package Bridge;
 public class MainProgramDev {
     public static void main(String[] args) {
 
-        Program pb24 = new BankAPP(new Java());
-        Program moneyExch = new CashExchange(new Pyton());
-        Program oschad = new BankAPP(new Java());
+        Program pb24;
+        Program moneyExch;
+        Program oschad;
 
         pb24 = new BankAPP(new Java());
         moneyExch = new CashExchange(new Pyton());

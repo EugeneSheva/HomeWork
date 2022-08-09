@@ -1,4 +1,4 @@
-public class Main {
+public class MainAdapter {
     public static void main(String[] args) {
         ToyotaCorolla toyotaCorolla = new ToyotaCorolla();
         TV tv = new TV();
